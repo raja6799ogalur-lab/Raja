@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Raja Prasanth | HR & IT Sales Professional</title>
+
+    <meta name="description"
+          content="Raja Prasanth - HR, IT Sales and Administration Professional based in Dubai, UAE">
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Icons -->
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+
+<body>
+
+<!-- ================= HEADER ================= -->
+
+<header>
+    <div class="container nav-container">
+
+        <a href="#home" class="logo">
+            RP<span>.</span>
+        </a>
+
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#experience">Experience</a>
+            <a href="#skills">Skills</a>
+            <a href="#education">Education</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+
+    </div>
+</header>
+
+
+<!-- ================= HERO ================= -->
+
+<section id="home" class="hero">
+
+    <div class="container hero-content">
+
+        <div class="hero-text">
+
+            <p class="small-title">HELLO, I'M</p>
+
+            <h1>Raja <span>Prasanth</span></h1>
+
+            <h2>
+                HR | IT Sales | Administration
+            </h2>
+
+            <p class="hero-description">
+                MBA HR professional with experience in IT sales,
+                customer relationship management, administration,
+                business development and HR operations.
+            </p>
+
+            <div class="hero-buttons">
+
+                <a href="#contact" class="btn primary-btn">
+                    Contact Me
+                </a>
+
+                <a href="resume.pdf"
+                   class="btn secondary-btn"
+                   target="_blank">
+                    <i class="fa-solid fa-download"></i>
+                    Download CV
+                </a>
+
+            </div>
+
+            <div class="social-links">
+
+                <a href="https://www.linkedin.com/"
+                   target="_blank">
+                    <i class="fa-brands fa-linkedin-in"></i>
+                </a>
+
+                <a href="mailto:your@email.com">
+                    <i class="fa-solid fa-envelope"></i>
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <div class="hero-card">
+
+            <div class="profile-circle">
+                RP
+            </div>
+
+            <h3>HR & IT Professional</h3>
+
+            <p>
+                Dubai, UAE
+            </p>
+
+            <div class="availability">
+                <span></span>
+                Open to opportunities
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- ================= ABOUT ================= -->
+
+<section id="about" class="section">
+
+    <div class="container">
+
+        <div class="section-title">
+            <p>ABOUT ME</p>
+            <h2>Professional Profile</h2>
+        </div>
+
+        <div class="about-grid">
+
+            <div>
+
+                <p class="large-text">
+                    I am an MBA Human Resources professional with
+                    a background in Electronics & Communication
+                    Engineering and experience in IT sales,
+                    customer management and administration.
+                </p>
+
+                <p>
+                    My interests include HR operations, recruitment,
+                    employee relations, payroll coordination,
+                    business development, IT equipment sales and
+                    customer relationship management.
+                </p>
+
+                <p>
+                    I am continuously developing my skills in
+                    HR technology, data analytics, Power BI,
+                    SAP SuccessFactors and modern workplace
+                    technologies.
+                </p>
+
+            </div>
+
+
+            <div class="info-box">
+
+                <div class="info-item">
+                    <span>Location</span>
+                    <strong>Dubai, UAE</strong>
+                </div>
+
+                <div class="info-item">
+                    <span>Specialization</span>
+                    <strong>HR & IT Sales</strong>
+                </div>
+
+                <div class="info-item">
+                    <span>Education</span>
+                    <strong>MBA - HR</strong>
+                </div>
+
+                <div class="info-item">
+                    <span>Languages</span>
+                    <strong>English | Tamil</strong>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- ================= EXPERIENCE ================= -->
+
+<section id="experience" class="section dark-section">
+
+    <div class="container">
+
+        <div class="section-title">
+            <p>CAREER</p>
+            <h2>Experience</h2>
+        </div>
+
+
+        <div class="timeline">
+
+            <!-- EXPERIENCE 1 -->
+
+            <div class="timeline-item">
+
+                <div class="timeline-dot"></div>
+
+                <div class="timeline-content">
+
+                    <span class="date">
+                        Present
+                    </span>
+
+                    <h3>
+                        IT Sales & Business Development
+                    </h3>
+
+                    <h4>
+                        Dubai, UAE
+                    </h4>
+
+                    <p>
+                        Managing IT equipment, printers,
+                        scanners, consumables and technology
+                        solutions for corporate customers.
+                    </p>
+
+                    <ul>
+                        <li>Preparing quotations and commercial proposals</li>
+                        <li>Managing customer enquiries and follow-ups</li>
+                        <li>Coordinating delivery and installation</li>
+                        <li>Handling supplier and customer communication</li>
+                        <li>Managing payment and quotation follow-ups</li>
+                        <li>Supporting IT equipment and printer sales</li>
+                    </ul>
+
+                </div>
+
+            </div>
+
+
+            <!-- EXPERIENCE 2 -->
+
+            <div class="timeline-item">
+
+                <div class="timeline-dot"></div>
+
+                <div class="timeline-content">
+
+                    <span class="date">
+                        Previous Experience
+                    </span>
+
+                    <h3>
+                        Sales & Marketing
+                    </h3>
+
+                    <h4>
+                        India
+                    </h4>
+
+                    <p>
+                        Experience in sales, marketing,
+                        customer communication and business
+                        development activities.
+                    </p>
+
+                    <ul>
+                        <li>Customer relationship management</li>
+                        <li>Lead generation</li>
+                        <li>Sales coordination</li>
+                        <li>Business development</li>
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- ================= SKILLS ================= -->
+
+<section id="skills" class="section">
+
+    <div class="container">
+
+        <div class="section-title">
+            <p>EXPERTISE</p>
+            <h2>Skills</h2>
+        </div>
+
+
+        <div class="skills-grid">
+
+            <div class="skill-card">
+                <i class="fa-solid fa-users"></i>
+                <h3>HR Operations</h3>
+                <p>
+                    Recruitment, employee coordination,
+                    HR administration and documentation.
+                </p>
+            </div>
+
+
+            <div class="skill-card">
+                <i class="fa-solid fa-user-plus"></i>
+                <h3>Recruitment</h3>
+                <p>
+                    Candidate sourcing, screening,
+                    interview coordination and onboarding.
+                </p>
+            </div>
+
+
+            <div class="skill-card">
+                <i class="fa-solid fa-chart-line"></i>
+                <h3>IT Sales</h3>
+                <p>
+                    IT equipment, printers, scanners,
+                    consumables and technology solutions.
+                </p>
+            </div>
+
+
+            <div class="skill-card">
+                <i class="fa-solid fa-handshake"></i>
+                <h3>Customer Management</h3>
+                <p>
+                    Customer communication, quotations,
+                    negotiations and follow-ups.
+                </p>
+            </div>
+
+
+            <div class="skill-card">
+                <i class="fa-solid fa-chart-column"></i>
+                <h3>Data & Analytics</h3>
+                <p>
+                    Excel, reporting, dashboards and
+                    Power BI fundamentals.
+                </p>
+            </div>
+
+
+            <div class="skill-card">
+                <i class="fa-solid fa-laptop-code"></i>
+                <h3>HR Technology</h3>
+                <p>
+                    Interest in SAP SuccessFactors,
+                    HRIS and digital HR solutions.
+                </p>
+            </div>
+
+        </div>
+
+
+        <!-- SKILL BARS -->
+
+        <div class="skill-bars">
+
+            <div class="bar">
+                <div>
+                    <span>Microsoft Excel</span>
+                    <span>85%</span>
+                </div>
+                <div class="bar-background">
+                    <div class="bar-fill" style="width:85%"></div>
+                </div>
+            </div>
+
+
+            <div class="bar">
+                <div>
+                    <span>IT Sales</span>
+                    <span>90%</span>
+                </div>
+                <div class="bar-background">
+                    <div class="bar-fill" style="width:90%"></div>
+                </div>
+            </div>
+
+
+            <div class="bar">
+                <div>
+                    <span>HR Operations</span>
+                    <span>75%</span>
+                </div>
+                <div class="bar-background">
+                    <div class="bar-fill" style="width:75%"></div>
+                </div>
+            </div>
+
+
+            <div class="bar">
+                <div>
+                    <span>Customer Management</span>
+                    <span>90%</span>
+                </div>
+                <div class="bar-background">
+                    <div class="bar-fill" style="width:90%"></div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- ================= EDUCATION ================= -->
+
+<section id="education" class="section light-section">
+
+    <div class="container">
+
+        <div class="section-title">
+            <p>ACADEMIC BACKGROUND</p>
+            <h2>Education</h2>
+        </div>
+
+
+        <div class="education-grid">
+
+            <div class="education-card">
+
+                <div class="education-icon">
+                    <i class="fa-solid fa-graduation-cap"></i>
+                </div>
+
+                <div>
+                    <span>Postgraduate</span>
+
+                    <h3>
+                        Master of Business Administration
+                    </h3>
+
+                    <p>
+                        Human Resources
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="education-card">
+
+                <div class="education-icon">
+                    <i class="fa-solid fa-microchip"></i>
+                </div>
+
+                <div>
+
+                    <span>Undergraduate</span>
+
+                    <h3>
+                        Bachelor of Engineering
+                    </h3>
+
+                    <p>
+                        Electronics & Communication Engineering
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- ================= PROJECTS ================= -->
+
+<section id="projects" class="section">
+
+    <div class="container">
+
+        <div class="section-title">
+            <p>MY WORK</p>
+            <h2>Projects & Interests</h2>
+        </div>
+
+
+        <div class="projects-grid">
+
+            <div class="project-card">
+
+                <div class="project-icon">
+                    <i class="fa-solid fa-chart-pie"></i>
+                </div>
+
+                <h3>
+                    HR Dashboard
+                </h3>
+
+                <p>
+                    HR analytics dashboard concept covering
+                    employee information, turnover,
+                    attendance and recruitment metrics.
+                </p>
+
+                <span class="tag">
+                    HR Analytics
+                </span>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <div class="project-icon">
+                    <i class="fa-solid fa-chart-simple"></i>
+                </div>
+
+                <h3>
+                    Sales Dashboard
+                </h3>
+
+                <p>
+                    Business dashboard concept for tracking
+                    quotations, sales performance,
+                    customers and product categories.
+                </p>
+
+                <span class="tag">
+                    Power BI
+                </span>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <div class="project-icon">
+                    <i class="fa-brands fa-github"></i>
+                </div>
+
+                <h3>
+                    Digital Portfolio
+                </h3>
+
+                <p>
+                    Personal professional portfolio created
+                    using HTML, CSS and GitHub Pages.
+                </p>
+
+                <span class="tag">
+                    Web Development
+                </span>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- ================= CONTACT ================= -->
+
+<section id="contact" class="section dark-section">
+
+    <div class="container">
+
+        <div class="section-title">
+            <p>GET IN TOUCH</p>
+            <h2>Contact Me</h2>
+        </div>
+
+
+        <div class="contact-grid">
+
+            <div class="contact-text">
+
+                <h3>
+                    Let's connect.
+                </h3>
+
+                <p>
+                    I am open to opportunities in HR,
+                    HR Administration, IT Sales and
+                    business support roles in the UAE.
+                </p>
+
+            </div>
+
+
+            <div class="contact-details">
+
+                <a href="mailto:your@email.com">
+
+                    <i class="fa-solid fa-envelope"></i>
+
+                    <div>
+                        <span>Email</span>
+                        <strong>your@email.com</strong>
+                    </div>
+
+                </a>
+
+
+                <a href="https://www.linkedin.com/"
+                   target="_blank">
+
+                    <i class="fa-brands fa-linkedin"></i>
+
+                    <div>
+                        <span>LinkedIn</span>
+                        <strong>View LinkedIn Profile</strong>
+                    </div>
+
+                </a>
+
+
+                <div class="contact-item">
+
+                    <i class="fa-solid fa-location-dot"></i>
+
+                    <div>
+                        <span>Location</span>
+                        <strong>Dubai, United Arab Emirates</strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- ================= FOOTER ================= -->
+
+<footer>
+
+    <div class="container">
+
+        <p>
+            © 2026 Raja Prasanth. All Rights Reserved.
+        </p>
+
+        <div>
+
+            <a href="#home">
+                Back to top ↑
+            </a>
+
+        </div>
+
+    </div>
+
+</footer>
+
+
+</body>
+</html>
